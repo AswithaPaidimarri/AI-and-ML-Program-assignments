@@ -16,8 +16,8 @@ Original file is located at
 # Write a program to subtract two complex numbers in Python.
 
 
-a=2+3j
-b=3+2j
+a=2+3j;
+b=3+2j;
 print(a-b)
 
 # **Question2**
